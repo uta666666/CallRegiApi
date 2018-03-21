@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27428.2011
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallRegiApi", "CallRegiApi\CallRegiApi.csproj", "{B802A862-C470-4B21-9A48-B466D5C171EF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallRegiApi.Test", "CallRegiApi.Test\CallRegiApi.Test.csproj", "{5145EF76-A274-4274-97EB-529FD3BE2D7A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{B802A862-C470-4B21-9A48-B466D5C171EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B802A862-C470-4B21-9A48-B466D5C171EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B802A862-C470-4B21-9A48-B466D5C171EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5145EF76-A274-4274-97EB-529FD3BE2D7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5145EF76-A274-4274-97EB-529FD3BE2D7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5145EF76-A274-4274-97EB-529FD3BE2D7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5145EF76-A274-4274-97EB-529FD3BE2D7A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
